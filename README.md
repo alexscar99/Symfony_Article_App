@@ -1,4 +1,4 @@
-### SymphArt
+# SymphArt
 -    SymphArt is a CRUD application created using the PHP framework Symfony to allow a user to post, view,
      edit, and delete articles.
      
