@@ -7,4 +7,4 @@
 -    Symfony
 -    Doctrine ORM (connecting to MySQL DB)
 -    Twig
--    JavaScript
+-    JS
