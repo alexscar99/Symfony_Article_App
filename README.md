@@ -5,6 +5,6 @@
 # Tech Used
 -    PHP
 -    Symfony
--    PDO
+-    Doctrine ORM (connecting to MySQL DB)
 -    Twig
 -    JavaScript
